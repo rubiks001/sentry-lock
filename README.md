@@ -153,6 +153,14 @@ An Arduino-based proximity security system that uses an ultrasonic sensor mounte
 
 ---
 
+## 📸 Hardware Setup
+
+
+
+![SentryLock Prototype](media/SentryLock_prototype.jpg)
+
+---
+
 ## 🔭 Planned Features
 
 - [ ] ESP32-CAM integration for visual capture on detection
