@@ -170,7 +170,7 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-Olatunde David Durojaiye
-Electrical & Electronics Engineering, University of Lagos
-GitHub: https://github.com/rubiks001
-LinkedIn: https://www.linkedin.com/in/olatunde-david-durojaiye-bb5985207/
+-Olatunde David Durojaiye
+-Electrical & Electronics Engineering, University of Lagos
+-GitHub: https://github.com/rubiks001
+-LinkedIn: https://www.linkedin.com/in/olatunde-david-durojaiye-bb5985207/
